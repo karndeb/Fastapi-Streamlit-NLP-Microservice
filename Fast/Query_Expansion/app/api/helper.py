@@ -5,8 +5,8 @@ import boto3
 from botocore.exceptions import ClientError
 from botocore.client import Config
 
-AWS_SECRET_ACCESS_KEY = 'F24odmns0UKcC9SSHXjxsh+qK4Wv99HhOOqsMiXd'
-AWS_ACCESS_KEY_ID = 'AKIATUBA2BAZ2S6XKXOG'
+# AWS_SECRET_ACCESS_KEY =
+# AWS_ACCESS_KEY_ID =
 AWS_S3_REGION_NAME = "ap-south-1"
 AWS_S3_BUCKET = 'nqr-poc-bucket'
 PREFIX_NQR = 'QE/'

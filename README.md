@@ -20,6 +20,7 @@ The use cases are related to chatbot automation services.
  - Nginx Reverse Proxy to ensure security, scalability, flexibilty and web acceleration
  - Microservice specific CI/CD using AWS Codecommit, CodePipeline
  - AWS EKS Fargate serverless deployment. Microservice specific deployment, service and ingress manifests provided
+ - Multipage streamlit application. Easy to add microservice specific streamlit frontend
 
 ## Requirement
 

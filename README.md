@@ -35,3 +35,6 @@ $ docker-compose up
 # Start the Streamlit server
 $ streamlit run app.py
 ```
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/karndeb/Fastapi-Streamlit-NLP-Microservice/blob/master/LICENSE.md) file for details

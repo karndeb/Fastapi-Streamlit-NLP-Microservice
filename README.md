@@ -1,6 +1,6 @@
 # NLP As A Microservice
 
-![NLP As A Microservice Demo](https://github.com/karndeb/Fastapi-Streamlit-NLPService/blob/master/demo/animation_demo2.gif)
+![NLP As A Microservice Demo](https://github.com/karndeb/Fastapi-Streamlit-NLP-Microservice/blob/master/demo/animation_demo2.gif)
 
 This project is a sample demo of NLP as a service mono-repo microservice platform built using FastAPI, Streamlit and Hugging Face.
 The use cases are related to chatbot automation services. 

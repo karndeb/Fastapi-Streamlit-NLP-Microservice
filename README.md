@@ -19,6 +19,7 @@ The use cases are related to chatbot automation services.
  - Dockerized application. Indiviual docker containers for each microservice
  - Nginx Reverse Proxy to ensure security, scalability, flexibilty and web acceleration
  - Microservice specific CI/CD using AWS Codecommit, CodePipeline
+ - AWS ECR to store the microservice images in the image repositories
  - AWS EKS Fargate serverless deployment. Microservice specific deployment, service and ingress manifests provided
  - Multipage streamlit application. Easy to add microservice specific streamlit frontend
 
